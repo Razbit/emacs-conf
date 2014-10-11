@@ -1,8 +1,11 @@
 autopair
 auctex
-ac-math
-ecb
+auto-complete
+auto-complete-c-headers
+auto-complete-clang
 column-marker
-autocomplete
+darkburn-theme
+disaster
+ecb
+markdown-mode
 yasnippet
-zenburn-theme
