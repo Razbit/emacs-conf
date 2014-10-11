@@ -1,0 +1,8 @@
+autopair
+auctex
+ac-math
+ecb
+column-marker
+autocomplete
+yasnippet
+zenburn-theme
